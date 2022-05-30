@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnieSantts
 - 👀 I’m interested in learn more about coding 
 - 🌱 I’m currently learning HTML, Javascript and CSS.
-- 💞️ I’m looking to collaborate on whateaaver i can.
+- 💞️ I’m looking to collaborate on whateaver i can.
 - 📫 How to reach me : Insta annie.santts
 
 <!---
