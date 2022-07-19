@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @AnnieSantts
+
+
 I am proactive, attentive to updates and passionate about new challenges. I have experience in the banking sector as a financial specialist and also in the marketing area with monitoring via digital channels.
 I am currently focusing and directing my career towards the technology area and I have knowledge in OOP, Java, Spring Boot, SQL Server, Javascript, CSS, DevOps git and Github.
 
