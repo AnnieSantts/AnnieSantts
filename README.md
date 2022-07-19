@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @AnnieSantts
-- 👀 I’m interested in learn more about coding 
-- 🌱 I’m currently learning JAVA, HTML, Javascript and CSS.
-- 💞️ I’m looking to collaborate on whateaver i can.
+I am proactive, attentive to updates and passionate about new challenges. I have experience in the banking sector as a financial specialist and also in the marketing area with monitoring via digital channels.
+I am currently focusing and directing my career towards the technology area and I have knowledge in OOP, Java, Spring Boot, SQL Server, Javascript, CSS, DevOps git and Github.
+
+Feel free to explore my profile and don't hesitate to call me for a chat!
+
 - 📫 How to reach me: 
 https://www.linkedin.com/in/annie-santana-6995a2233/
-Insta annie.santts
+
 
 <!---
 AnnieSantts/AnnieSantts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
